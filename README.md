@@ -1,6 +1,6 @@
-# as_course
+# BMI Calculator 
 
-A new Flutter project.
+A new simple BMI Calculator with a creative design which let you choose the gender as well as the height(with a slider) and weight and age.
 
 ## Getting Started
 
